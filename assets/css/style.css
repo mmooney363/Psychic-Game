@@ -1,0 +1,16 @@
+body {
+    background-image: url(../images/space.jpeg)
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+
+h3 {
+    color: palegoldenrod;
+    text-align: center;
+    font-size: 25px;
+}
